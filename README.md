@@ -1,4 +1,5 @@
 # NaiveBayesClassification
+(公式均使用Typora内置latex书写，建议下载观看）
 使用Mapreduce实现朴素贝叶斯分类器
 
 ## 一、Project内容
